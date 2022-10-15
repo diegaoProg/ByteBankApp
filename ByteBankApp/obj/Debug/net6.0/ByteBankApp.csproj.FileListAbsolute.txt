@@ -1,0 +1,15 @@
+D:\DIEGO\Programação\source\repos\ByteBankApp\bin\Debug\net6.0\ByteBankApp.exe
+D:\DIEGO\Programação\source\repos\ByteBankApp\bin\Debug\net6.0\ByteBankApp.deps.json
+D:\DIEGO\Programação\source\repos\ByteBankApp\bin\Debug\net6.0\ByteBankApp.runtimeconfig.json
+D:\DIEGO\Programação\source\repos\ByteBankApp\bin\Debug\net6.0\ByteBankApp.dll
+D:\DIEGO\Programação\source\repos\ByteBankApp\bin\Debug\net6.0\ByteBankApp.pdb
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.csproj.AssemblyReference.cache
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.AssemblyInfoInputs.cache
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.AssemblyInfo.cs
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.csproj.CoreCompileInputs.cache
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.dll
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\refint\ByteBankApp.dll
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.pdb
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ByteBankApp.genruntimeconfig.cache
+D:\DIEGO\Programação\source\repos\ByteBankApp\obj\Debug\net6.0\ref\ByteBankApp.dll
